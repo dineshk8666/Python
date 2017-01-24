@@ -6,6 +6,8 @@ Generator:
     * Reduce the time of execution of the script/code
     * Can be also used with list comprehension
     * Make code easy readable
+    ** Need to use inside the function
+
 
 """
 
